@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LB3KmFGMPzjVebEWtm3Qi6MJ0Q98zlXM45I3UvG/N0DXjs8AbYesmu+1qv6/X8a7WM5fC7iHF/xQ7uOCJx+6Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivan\\Desktop\\api-with-signalr\\LocationsAPI\\LocationsAPI\\LocationsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\restsharp\\107.1.2\\restsharp.107.1.2.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
