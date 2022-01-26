@@ -7,14 +7,14 @@ namespace LocationsAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class LocationController : ControllerBase
+    public class PlaceController : ControllerBase
     {
-        // GET: api/<LocationController>
+        // GET: api/<Place>
         [HttpGet]
-        public async Task<string> Get(string lat, string lon)
+        public async Task<string> Get(string query, string lat, string lon)
         {
 
-            var client = new RestClient($"https://api.foursquare.com/v3/places/nearby?ll={lat}%2C{lon}");
+            var client = new RestClient($"https://api.foursquare.com/v3/places/search?query={query}&ll={lat}%2C{lon}");
             var request = new RestRequest("", Method.Get);
             request.AddHeader("Accept", "application/json");
             request.AddHeader("Authorization", "fsq3IouFslgXeyTgG52LqbMdbWVL9ZUxR4dkYoed2BnSAwU=");
@@ -22,7 +22,6 @@ namespace LocationsAPI.Controllers
 
             return response.Result.Content;
         }
-
 
     }
 }

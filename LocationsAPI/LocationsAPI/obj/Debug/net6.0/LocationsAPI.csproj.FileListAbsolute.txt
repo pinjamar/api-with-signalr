@@ -25,3 +25,14 @@ C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\obj\Debug\net6.
 C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\obj\Debug\net6.0\ref\LocationsAPI.dll
 C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\obj\Debug\net6.0\LocationsAPI.pdb
 C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\obj\Debug\net6.0\LocationsAPI.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Ivan\Desktop\api-with-signalr\LocationsAPI\LocationsAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
